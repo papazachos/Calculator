@@ -1,6 +1,6 @@
 if (operations == "+")
-         {
-             result = firstnum + secondnum;
-             answer = String.format("%.2f",result);
-             jtxtDisplay.setText(answer);
-         }
+    {
+          result = firstnum + secondnum;
+          answer = String.format("%.2f",result);
+           jtxtDisplay.setText(answer);
+     }
